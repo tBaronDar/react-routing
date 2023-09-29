@@ -4,8 +4,10 @@ function ErrorPage() {
   return (
     <>
       <MainNavigation />
-      <h1>An Error has occured!</h1>
-      <p>The page was not found.</p>
+      <main>
+        <h1>An Error has occured!</h1>
+        <p>The page was not found.</p>
+      </main>
     </>
   );
 }

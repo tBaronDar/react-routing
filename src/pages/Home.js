@@ -5,7 +5,7 @@ function HomePage() {
     <>
       <h1>This is my Home Page!</h1>
       <p>
-        Go to the<Link to="/products">list of products</Link>.
+        Go to the <Link to="/products">list of products</Link>.
       </p>
     </>
   );
