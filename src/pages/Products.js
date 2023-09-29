@@ -23,6 +23,7 @@ function Products() {
           );
         })}
       </ul>
+      <Link to="..">Back</Link>
     </>
   );
 }
